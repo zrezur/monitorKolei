@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monitorKolei.iml" filepath="$PROJECT_DIR$/monitorKolei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitorKolei/monitorKolei-monitorKolei.iml" filepath="$PROJECT_DIR$/monitorKolei/monitorKolei-monitorKolei.iml" />
+    </modules>
+  </component>
+</project>
+
